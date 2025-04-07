@@ -13,7 +13,7 @@ const Skills = () => {
                 <div className="skillBar">
                     <img src={UIDesign} alt="UIDesign" className="skillBarImg"/>
                     <div className="skillBarText">
-                        <h3>Front-end/Back-end Development</h3>
+                        <h3>Front-nnpm end/Back-end Development</h3>
                         <p>App and Webapp development using Flutter, css, React.js, html. Basics in JAVA,Python</p>
                     </div>
                 </div>
