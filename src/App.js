@@ -14,11 +14,9 @@ function App() {
       <Navbar/>
         <Intro/>
         <Skills/>
-      <Works/>
+        <Works/>
         <Contact/>
         <Footer/>
-
-
     </div>
   );
 }
